@@ -79,3 +79,22 @@ Business Aggregations + Analytics
       v
 Power BI
 Dashboards + Business Insights
+
+```
+## Project Documentation & Dashboard
+
+### Project Documentation
+
+[**View Inventory & Supply Chain Pipeline Documentation (PDF)**](https://github.com/alpesh502/azure-supply-chain-data-engineering-pipeline/blob/main/Inventory%20%26%20Supply%20Chain%20Pipeline.pdf)
+
+### Power BI Dashboard
+
+[**View Supply Chain Dashboard**](https://github.com/alpesh502/azure-supply-chain-data-engineering-pipeline/blob/main/supply_chain_dashboaard.jpeg)
+
+## Author
+
+**Alpesh Singh**
+
+**B.Tech – Computer Science & Engineering (AI & ML)**
+
+⭐ If you find this project useful, consider giving it a star.
